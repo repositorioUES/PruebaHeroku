@@ -1,0 +1,1 @@
+web: gunicorn PruebaHeroku.wsgi --log-file -
